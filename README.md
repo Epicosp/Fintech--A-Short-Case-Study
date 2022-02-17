@@ -9,7 +9,7 @@ OtusIntel was founded in 2016 by CEO - Marc Beaudry, with more than 15 years as 
 ---
 
 ## Why do we need this?
-An ever-increasing population and higher density cities are resulting in the need for better and more efficient housing. These population pressures also come with a requirement of more infrastructure. Installation of high-rise buildings with foundations that reach deep into bedrock and tunnelling for complex road networks has meant that the ground around us has never been more volatile[11].
+An ever-increasing population and higher density cities are resulting in the need for better and more efficient housing. These population pressures also come with a requirement of more infrastructure. Installation of high-rise buildings with foundations that reach deep into bedrock and tunnelling for complex transport networks has meant that the ground around us has never been more volatile[11].
 
 Ground movement of just 10-15mm can cause significant damage to residential housing, without ground movement data, causation of damage can be difficult to prove in insurance claims and damage reports.
 Additionally, movement during or after construction can cause the structure to fail to meet specification, leading to unforeseen costs and budget blowouts [9].
@@ -37,30 +37,30 @@ The lack of Australian competition provides OtusIntel with a unique opportunity 
 
 ## Resources
 #### About the company/employees
-[1] https://www.linkedin.com/company/otusintel/about/
+[1] (https://www.linkedin.com/company/otusintel/about/)
 
-[2] https://www.linkedin.com/in/beaudrym/details/experience/
+[2] (https://www.linkedin.com/in/beaudrym/details/experience/)
 
-[3] https://otusintel.com/company/about-us/
+[3] (https://otusintel.com/company/about-us/)
 
 #### News stories
-[4] https://www.9news.com.au/national/westconnex-sydney-news-inner-west-damage-houses/6b9517a7-6380-45ae-b8c6-e48595e1c1fa
+[4] (https://www.9news.com.au/national/westconnex-sydney-news-inner-west-damage-houses/6b9517a7-6380-45ae-b8c6-e48595e1c1fa)
 
-[5] https://otusintel.com/spiral-blue-and-otus-intel-partner-to-develop-surface-movement-risk-index/
+[5] (https://otusintel.com/spiral-blue-and-otus-intel-partner-to-develop-surface-movement-risk-index/)
 
 #### The origin of Big Data
-[6] https://towardsdatascience.com/what-is-big-data-understanding-the-history-32078f3b53ce
+[6] (https://towardsdatascience.com/what-is-big-data-understanding-the-history-32078f3b53ce)
 
 #### Analysing space data
-[7] https://www.intel.co.uk/content/www/uk/en/analytics/amazing-stories/big-data-from-satellites.html#:~:text=Space%20data%20%E2%80%93%20or%20big%20data,as%20'really%20big%20data'.
+[7] (https://www.intel.co.uk/content/www/uk/en/analytics/amazing-stories/big-data-from-satellites.html#:~:text=Space%20data%20%E2%80%93%20or%20big%20data,as%20'really%20big%20data'.)
 
-[8] https://www.skywatch.com/blog/free-sources-of-satellite-data
+[8] (https://www.skywatch.com/blog/free-sources-of-satellite-data)
 
 #### Regulations
-[9] https://www.vba.vic.gov.au/__data/assets/pdf_file/0003/134355/Guide-to-Standards-and-Tolerances-2015.pdf
+[9] (https://www.vba.vic.gov.au/__data/assets/pdf_file/0003/134355/Guide-to-Standards-and-Tolerances-2015.pdf)
 
 #### Non-satellite ground movement technology
-[10] https://www.hindawi.com/journals/sv/2022/6289303/
+[10] (https://www.hindawi.com/journals/sv/2022/6289303/)
 
-[11] https://bigbuild.vic.gov.au/__data/assets/pdf_file/0006/524976/NELP-EES-Technical-report-M-Ground-movement.pdf
+[11] (https://bigbuild.vic.gov.au/__data/assets/pdf_file/0006/524976/NELP-EES-Technical-report-M-Ground-movement.pdf)
 
